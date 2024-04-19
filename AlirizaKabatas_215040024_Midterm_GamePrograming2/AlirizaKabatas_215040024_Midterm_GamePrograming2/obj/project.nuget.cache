@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P1KDgNqbx/IfCfrdoJWU7cPlpomrbMloSK4k7LvK7r5WrnFWIeAigfJbmhKvwrQSGqF/cetODaQC8IRMqa5W8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aliri\\Desktop\\AlirizaKabatas_215040024_Midterm_GamePrograming2\\AlirizaKabatas_215040024_Midterm_GamePrograming2\\AlirizaKabatas_215040024_Midterm_GamePrograming2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aliri\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\aliri\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\aliri\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
